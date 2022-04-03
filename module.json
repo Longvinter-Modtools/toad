@@ -1,9 +1,10 @@
 {
-  "name": "Toad",
-  "author": "Junior",
-  "description": "Change your character model for Toad!",
-  "version": "1.0.1",
-  "servers": ["https://raw.githubusercontent.com/Longvinter-Modtools/toad/main/"],
-  "conflicts": [""],
-  "category": "paks"
+    "name": "Toad",
+    "author": "Junior",
+    "description": "Change your character model for Toad!",
+    "version": "1.0.1",
+    "servers": ["https://raw.githubusercontent.com/Longvinter-Modtools/toad/main/"],
+    "conflicts": [""],
+    "category": "paks",
+    "disableAutoUpdate": false
 }
